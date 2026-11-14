@@ -32,3 +32,7 @@ These dependency-free checks cover income forms, calculations, sorting, persiste
 - `checks/` contains behavioral checks.
 
 Progress is stored in the current browser and does not sync between devices or website addresses. Use **Journal → Export backup** before moving, then import it in the new app. Backups from earlier Open World editions remain supported.
+
+## Saved files
+
+Open **Journal → Your files** to save project briefs, quotes, invoices, contracts, and other documents in this browser. Download saved files later or remove them. Files stay on this device and are not included in the JSON quest progress backup. Keep separate copies of important originals. Browser site data can be cleared, which may remove saved files. Individual files can be up to 25 MB.

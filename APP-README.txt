@@ -1,25 +1,10 @@
-QUEST — INCOME & CAREER MAP v4
+QUEST — INCOME & CAREER MAP
 
-WHAT IS NEW
-Income is the opening screen. Add, edit, delete, and compare opportunities by
-estimated earnings per quest, hours per quest, and calculated earnings per hour.
-Your first opportunity is building websites for local businesses:
-EUR 500–1,500 per website, about 30 hours, or EUR 16.67–50.00 per hour.
-These are your estimates before costs and tax.
+Use Income to compare earning ideas by estimated payment and time per quest. The first example is building a website for a local business: €500–€1,500 for about 30 hours. Add, edit, and sort opportunities by hourly estimate.
 
-Your existing main storylines, side quests, life quests, journal, and progress
-remain available. Old Open World v2/v3 and QUEST//LOG backups can be imported.
-Income opportunities are included in new JSON backups, including an empty map.
+The app also includes career storylines, optional and life quests, and a journal. Quest progress saves in this browser. Use Journal to export or import a JSON progress backup.
 
-USE
-Open index.html on a computer, or upload all files together to an HTTPS static
-host. On iPhone, open the hosted URL in Safari and choose Share > Add to Home
-Screen. The app can work offline after the files have been cached.
+SAVED FILES
+Open Journal → Your files to keep project briefs, quotes, invoices, contracts, and other documents in the browser’s local storage. Download saved files from that page or remove them when no longer needed. Saved documents are separate from JSON quest backups, stay on this website and device, and may be removed when browser site data is cleared. Keep separate copies of important originals. Files up to 25 MB each can be saved.
 
-SAVING AND MOVING FROM AN OLDER VERSION
-Progress is saved locally in this browser, not synced between devices or URLs.
-If using the new app URL, export a JSON backup from your old app and use
-Journal > Import backup in the new app. An empty new map does not mean your old
-progress has been lost; it remains in the old browser/app origin.
-Export backups regularly, especially before clearing browser data or moving
-between browsers, devices, or website URLs.
+To run locally, open index.html or serve this folder using a static web server. For iPhone, upload the folder to an HTTPS static host, open it in Safari, and choose Share → Add to Home Screen.
