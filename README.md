@@ -1,8 +1,8 @@
 # Quest — Income & Career Map
 
-A mobile-friendly web app for comparing income opportunities by potential earnings, estimated hours, and earnings per hour. It also includes career storylines, side quests, life quests, and a progress journal.
+A mobile-friendly career app for comparing income opportunities, tracking career paths, and recording progress on work-related quests.
 
-The first opportunity is building websites for local businesses: **€500–€1,500 for an estimated 30 hours**, or about **€16.67–€50 per hour**, before costs and tax.
+The first income opportunity is building websites for local businesses: **€500–€1,500 for an estimated 30 hours**, or about **€16.67–€50 per hour**, before costs and tax.
 
 ## Run locally
 
@@ -16,7 +16,7 @@ Open http://localhost:8000. On an HTTPS host, the app supports offline caching a
 
 ## Save and import your data
 
-Quest saves progress automatically in the current browser. Open **Journal** and choose **Save data file** to download a JSON file containing income opportunities, paths, quests, completed steps, and journal history. On another device, open Quest, choose **Import data file**, and select the JSON file. Import replaces the data currently in Quest, so save a copy first if you want to keep both. Earlier Open World and QUEST//LOG backups remain supported.
+Quest saves progress automatically in the current browser. Open **Journal** and choose **Save data file** to download a JSON file containing income opportunities, career paths, quests, completed steps, and journal history. On another device, open Quest, choose **Import data file**, and select the JSON file. Import replaces the data currently in Quest, so save a copy first if you want to keep both. Earlier Open World and QUEST//LOG backups remain supported; personal life quests are removed during import.
 
 ## Files
 

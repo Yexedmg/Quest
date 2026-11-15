@@ -1,4 +1,4 @@
-const CACHE = 'open-world-quest-v6-data-backup';
+const CACHE = 'open-world-quest-v7-career-only';
 const ASSETS = ['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));

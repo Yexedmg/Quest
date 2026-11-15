@@ -1,8 +1,24 @@
-QUEST — INCOME & CAREER MAP
+# Quest — Income & Career Map
 
-Compare income opportunities, career storylines, side quests, and life goals in one journal.
+A mobile-friendly career app for comparing income opportunities, tracking career paths, and recording progress on work-related quests.
 
-SAVE AND IMPORT YOUR QUEST DATA
-Quest progress saves automatically in your current browser. Open Journal and choose “Save data file” to download a JSON file containing your income opportunities, storylines, quests, completed steps, and journal history. To move devices, open Quest on the other device, choose “Import data file,” and select the JSON file. Import replaces Quest data already on that device, so save a copy first if you want to keep both. Older Open World and QUEST//LOG backups remain supported.
+The first income opportunity is building websites for local businesses: **€500–€1,500 for an estimated 30 hours**, or about **€16.67–€50 per hour**, before costs and tax.
 
-To run locally, open index.html or serve this folder with a static web server. On iPhone, upload the folder to an HTTPS static host, open it in Safari, and choose Share → Add to Home Screen.
+## Run locally
+
+No build step or dependencies are required.
+
+```sh
+python3 -m http.server 8000 --directory dist
+```
+
+Open http://localhost:8000. On an HTTPS host, the app supports offline caching and installation on a phone’s Home Screen.
+
+## Save and import your data
+
+Quest saves progress automatically in the current browser. Open **Journal** and choose **Save data file** to download a JSON file containing income opportunities, career paths, quests, completed steps, and journal history. On another device, open Quest, choose **Import data file**, and select the JSON file. Import replaces the data currently in Quest, so save a copy first if you want to keep both. Earlier Open World and QUEST//LOG backups remain supported; personal life quests are removed during import.
+
+## Files
+
+- `dist/` contains the static app for local hosting.
+- `checks/` contains dependency-free app checks.

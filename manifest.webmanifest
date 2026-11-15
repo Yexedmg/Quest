@@ -2,7 +2,7 @@
   "id": "./index.html",
   "name": "Quest \u2014 Income & Career Map",
   "short_name": "Quest",
-  "description": "Compare income opportunities, estimated earnings, and time per quest. Track career and life quests.",
+  "description": "Map income opportunities, track career quests, and save your progress.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

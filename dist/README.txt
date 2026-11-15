@@ -1,8 +1,8 @@
 QUEST — INCOME & CAREER MAP
 
-Compare income opportunities, career storylines, side quests, and life goals in one journal.
+Compare income opportunities, track career paths, and record progress on work-related quests.
 
-SAVE AND IMPORT YOUR QUEST DATA
-Quest progress saves automatically in your current browser. Open Journal and choose “Save data file” to download a JSON file containing your income opportunities, storylines, quests, completed steps, and journal history. To move devices, open Quest on the other device, choose “Import data file,” and select the JSON file. Import replaces Quest data already on that device, so save a copy first if you want to keep both. Older Open World and QUEST//LOG backups remain supported.
+SAVE AND IMPORT QUEST DATA
+Quest progress saves automatically in the current browser. Open Journal and choose “Save data file” to download a JSON file containing income opportunities, career paths, quests, completed steps, and journal history. On another device, open Quest, choose “Import data file,” and select that JSON file. Import replaces the data currently in Quest, so save a copy first if you want to keep both. Earlier Open World and QUEST//LOG backups remain supported; personal life quests are removed during import.
 
-To run locally, open index.html or serve this folder with a static web server. On iPhone, upload the folder to an HTTPS static host, open it in Safari, and choose Share → Add to Home Screen.
+To run locally, open index.html or serve this folder using a static web server. On iPhone, upload the folder to an HTTPS static host, open it in Safari, and choose Share → Add to Home Screen.
